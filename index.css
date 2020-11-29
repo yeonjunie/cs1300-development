@@ -1,1 +1,41 @@
-/* Put your style information here! */
+body {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+img{
+  width: 100%;
+}
+.button {
+  margin-right: 20px;
+}
+
+h1 {
+  letter-spacing: 0.5px;
+  color: #2b7b8e;
+  font-size: 100%;
+}
+
+h2 {
+  color: #71b5c4;
+}
+
+p, li, ol{
+  color: #666666;
+}
+b {
+  color: #2b7b8e;
+}
+section.header {
+  padding: 50px;
+  background-color: white;
+}
+
+.buttons {
+  padding-top: 40px;
+  text-align: center;
+}
+
+section.middle{
+  padding: 50px;
+  padding-right:100px;
+}
